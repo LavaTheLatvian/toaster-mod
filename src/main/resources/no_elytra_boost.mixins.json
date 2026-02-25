@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.lavathelatvian.no_elytra_boost.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FireworkMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
